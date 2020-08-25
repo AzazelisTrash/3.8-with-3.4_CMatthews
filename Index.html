@@ -17,17 +17,21 @@
 
 	<!-- import the webpage's stylesheet goes here -->
 	<link rel="stylesheet" href="css/style alt.css">
+	<link rel="script" href="js/script.js">
 	<link href="https://fonts.googleapis.com/css?family=Spartan&display=swap" rel="stylesheet">
 	<link rel= "shortcut icon" href = "images/logo.jpg">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   </head> 
 
 <body>
+
 
 <div class="grid-container">
 
 	<div class="header"><img class = "img" img src = "images/logo.jpg" alt = "9 Lives Logo"></img></div>
 
 	<!--This class is for my Navigation/Menu-->
+	
 	<div class="nav">
 		<nav>
 			<ul>
@@ -43,18 +47,35 @@
 			</ul>
 		</nav>
 	</div>
-
+	
 	<div class="sidebar"><p>Sidebar</p></div>
 	
-
+	
 	<div class="content"><p>Content</p>
 
 	<div class="section"><p>Section</p>
-	<button onclick = "myFunction()">Toggle more info</button>
+	<button onclick = "myFunction()">More Information</button>
+		<div id = "toggle-text">
+		<p>This is a test</p>
 		</div>
+	
+	
+	</div>
     </div>
 	<div class="footer"><p>© Copyright by Conal Matthews, all rights reserved.</p></div>
 
 	</div>
+	
+	<script>
+	function myFunction() {
+  var x = document.getElementById("toggle-text");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+	</script>
+	
 </body>
 </html>
