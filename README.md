@@ -42,19 +42,18 @@
 	<div class="sidebar"><p>Sidebar</p></div>
 	
 	<div class="content">
-	
+	<section>
 		<div class="scroll-area"><h2>Products</h2>
-		<table>
-		<tr>
-			<td><img class = "img" img src = "images/logo.jpg" alt = "9 Lives Logo"></img></td>
-			<td>Test</td>
-		</tr>
-		</table>
+		<div class ="product1"><p>Product1</p>
+		<div class= "images"><p>Images</p></div>
+	</div>
+	
+		
 		
 	
 		</div>
     </div>
-	
+	</section>
 	<div class="footer"><p>Footer</p></div>
     
 	</div>
