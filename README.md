@@ -44,10 +44,95 @@
 	<div class="content">
 	<section>
 		<div class="scroll-area"><h2>Products</h2>
-		<div class ="product1"><p>Product1</p>
-		<div class= "images"><p>Images</p></div>
-	</div>
+		
+
+<!--First Row of Images-->
+<div class="gallery">
+  <a target="_blank" href="">
+    <img src=".jpg" alt="" width="600" height="400">
+  </a>
+  <div class="desc">Skull of Untold Secrets</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="">
+    <img src=".jpg" alt="" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="">
+    <img src=".jpg" alt="" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="">
+    <img src=".jpg" alt="" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+<br>
+<!-- Second Row of Images-->
+<div class="gallery">
+  <a target="_blank" href="">
+    <img src=".jpg" alt="" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="">
+    <img src=".jpg" alt="" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="">
+    <img src=".jpg" alt="" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="">
+    <img src=".jpg" alt="" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
 	
+	<br>
+	<!--Third Row of Images-->
+	<div class="gallery">
+  <a target="_blank" href="">
+    <img src=".jpg" alt="" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="">
+    <img src=".jpg" alt="" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="">
+    <img src=".jpg" alt="" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="">
+    <img src=".jpg" alt="" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
 		
 		
 	
